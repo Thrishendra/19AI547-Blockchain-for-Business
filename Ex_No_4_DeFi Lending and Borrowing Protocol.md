@@ -1,4 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+# Date: 21-04-2025
+# Reg no: 212223230227
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -87,6 +89,18 @@ If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 # High-Level Overview:
 Teaches key DeFi concepts: lending, borrowing, collateral, liquidation.
 
+### Deposit in lender's account:
+![image](https://github.com/user-attachments/assets/d4c791f8-6633-47fc-b828-daf789b06ef0)
+
+### Borrowing 2 eth, by keeping collateral as 3eth:
+![image](https://github.com/user-attachments/assets/29e7fc49-6c34-4cd6-a05a-c9c65850fd61)
+
+### Liquidate borrower:
+![image](https://github.com/user-attachments/assets/cf040460-74f2-43e7-9cbb-cbfc4376a47e)
+
+
+
+
 
 Introduces risk management: overcollateralization and liquidation.
 
@@ -94,4 +108,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+Thus the DeFi Lending and Borrowing Protocol works
