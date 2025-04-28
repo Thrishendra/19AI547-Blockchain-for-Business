@@ -61,13 +61,18 @@ contract Crowdfunding {
 }
 ```
 # Expected Output:
-![Screenshot 2025-04-16 094851](https://github.com/user-attachments/assets/59ea2da9-806c-40a1-8e95-cacf2e17c569)
+Users can contribute ETH to the campaign.
+![Screenshot 2025-04-16 095311](https://github.com/user-attachments/assets/634d1bf5-3b38-4a8a-8477-5a0b52a619ad)
 
 
-![Screenshot 2025-04-16 095157](https://github.com/user-attachments/assets/35ae56a6-10ea-4822-a9d0-fcbef3f5c46c)
+
+If the goal is met, the creator can withdraw funds.
+![Screenshot 2025-04-16 095330](https://github.com/user-attachments/assets/550dc47e-7e50-48b9-8454-73ea8040a7b6)
 
 
-![Screenshot 2025-04-16 095817](https://github.com/user-attachments/assets/53607205-dd0c-40d0-b3d0-05d0ee44158b)
+If the goal is not met, contributors can claim a refund.
+![image](https://github.com/user-attachments/assets/92404aff-deb3-437e-ba09-0e6014a38993)
+
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -76,4 +81,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
-Hence we implemented code for Blockchain-Based Crowdfunding
+Hence we implemented Blockchain-Based Crowdfunding (Kickstarter Alternative)
